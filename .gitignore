@@ -1,0 +1,8 @@
+voices/*.wav
+voices/*.mp3
+voices/*.m4a
+outputs/*.wav
+outputs/*.mp3
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

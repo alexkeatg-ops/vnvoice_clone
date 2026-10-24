@@ -1,0 +1,8 @@
+# Trên Colab, PyTorch đã có sẵn — đừng pin torch ở đây để tránh xung đột với Colab.
+# Cài F5-TTS từ repo chính thức:
+#   pip install git+https://github.com/SWivid/F5-TTS
+f5-tts @ git+https://github.com/SWivid/F5-TTS
+huggingface_hub
+torchaudio
+scipy
+numpy
